@@ -1,0 +1,24 @@
+- [x] 1) Create a new repo in github name it week3
+- [x] 2) Create a file named hw1.html, you can use the provided HTML found here (LINK COMING SOON) or write your own
+- [x] 3) Create a css style sheet named hw1.css, the following will instructions will be written in this file
+- [x] 4) selector: all elements declarations: remove all margin and padding. Box-sizing set to border-box
+- [x] 5) selector: all paragraphs declarations: A green 1 pixel solid border 
+- [x] 6) selector: all elements with the class of "margin" declarations: set margin all around to 16 pixels
+- [x] 7) selector: all elements with the class of "margin-x" declarations: set top and bottom margin to 16 pixels
+- [x] 8) selector: all elements with the class of "margin-y" declarations: set left and right margin to 16 pixels 
+- [x] 9) selector: all elements with the class of "padding" declarations: set padding all around to 16 pixels
+- [x] 10) selector: all elements with the class of "padding-x" declarations: set top and bottom padding to 16 pixels
+- [x] 11) selector: all elements with the class of padding-y declarations: set left and right padding to 16 pixels 
+- [x] 12) selector: all elements with the class of margin-auto declarations: set width to half the parent container, set text to align center, set left and right margin to auto, set top and bottom margins to none
+- [x] 13) selector: all elements with the class of box declarations: set height to 100 pixels, set width to 40% of the parent container, set margin top and bottom to 16 pixels, set left and right margin to 5%, set background color to hex code #333333
+- [x] 14) selector: all elements with the class of left declarations: set float to left
+- [x] 15) selector: all elements with the class of right declarations: set float to right
+- [x] 16) selector: all elements with class of clear declarations: set clear to both 
+- [x] 17) selector: all elements with the class of w-90 declarations: set width to 90%
+- [x] 18) selector: all elements with the class of display declarations: add a 1 pixel solid red border 
+- [x] 19) selector: all elements with the class of d-block declarations: set display type to block
+- [x] 20) selector: all elements with the class of d-inline declarations: set display type to inline 
+- [x] 21) selector: all elements with the class of d-inline-block declarations: set display to inline block 
+- [x] 22) selector: all elements with the class of relative declarations: set height and width to 400 pixels, set background color to hex #333333, set position to relative, set top to none, set left ot 100 pixels 
+- [x] 23) selector: all elements with the class of absolute declarations: set position to absolute, set height and width to 100 pixels, set background color to #cccccc, set top and left to 150 pixels 
+- [x] 24) selector: all element with the class of fixed declarations: set height to 50 pixels, set width to 100%, set background color to blue, set text color to white (++ if it is in hex), set position to fixed, set top to 0, set left to 0.
